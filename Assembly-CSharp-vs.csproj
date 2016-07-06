@@ -77,6 +77,8 @@
      <Compile Include="Assets\OpenClassrooms-ToolsS3Ch6\Scripts\PhysicallyBasedFirstPersonController\MovementScripts\MoveScript.cs" />
      <Compile Include="Assets\OpenClassrooms-ToolsS3Ch6\Scripts\PhysicallyBasedFirstPersonController\ViewScripts\PitchScript.cs" />
      <Compile Include="Assets\OpenClassrooms-ToolsS3Ch6\Scripts\PhysicallyBasedFirstPersonController\ViewScripts\YawScript.cs" />
+     <Compile Include="Assets\OpenClassrooms-ToolsS3Ch6\Scripts\Scenes\ChangeSceneAfterDelayScript.cs" />
+     <Compile Include="Assets\OpenClassrooms-ToolsS3Ch6\Scripts\Scenes\ChangeSceneOnClickScript.cs" />
      <Compile Include="Assets\SimpleParticlePack\Scripts\ParticleTester.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
